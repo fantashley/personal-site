@@ -11,11 +11,6 @@ I have a passion for decentralized social media and chat services, and I enjoy
 
 **~ \* ~**
 
-I started a DevOps blog called [Just DevOps
-  Things](https://justdevopsthings.com/)
-
-**~ \* ~**
-
 I have contributed code and configuration needed to run the microservice
   version of [Dendrite](https://github.com/matrix-org/dendrite), a Go
   implementation of Matrix Synapse
